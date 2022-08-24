@@ -2,7 +2,7 @@
 
 import java.io.*;   
   
-class UniqueElementsExample2 {   
+class UniqueElements {   
     public static void main (String[] args)    
     {   
         int arrayWithDuplicates[] = { 10, 3, 5, 3, 9, 22, 4, 3, 1, 5, 6 };  
